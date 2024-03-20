@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  .jedna{
+  color:blue;
+  text-align: center;
+  font-size: 180%;
+  background-color: red ;
+  }
+  .dva{
+  color:rebeccapurple;
+  font-size: 120%;
+  background-color: purple;
+  }
+  .tri{
+  color:red;
+  font-family: "Open Sans", sans-serif;
+  }
+  .ctyri{
+  color:#000000;
+  border: 1px groove #0d0d0d;
+  background-color: #f18973;
+  }
