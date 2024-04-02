@@ -22,3 +22,11 @@ html {
   border: 1px groove #0d0d0d;
   background-color: #f18973;
   }
+  .skola{
+  color:rgb(44, 106, 131);
+  font-family: "Open Sans", sans-serif;
+  }
+  .galerie{
+  color:rgb(164, 173, 108);
+  font-family: "Open Sans", sans-serif;
+  }
