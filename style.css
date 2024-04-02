@@ -28,6 +28,7 @@ html {
   .skola{
   color:rgb(44, 106, 131);
   font-family: "Open Sans", sans-serif;
+  text-align: left;
   }
   .galerie{
   color:rgb(164, 173, 108);
@@ -38,14 +39,17 @@ html {
   color:rgb(89, 158, 106);
   font-family: "Open Sans", sans-serif;
   text-align: left;
+  background-color: #f18973;
   }
   .onas{
   color:rgb(144, 102, 221);
   font-family: "Open Sans", sans-serif;
   text-align: left;
+  background-color: grey;
   }
   .hlavni{
   color:rgb(40, 33, 53);
   font-family: "Open Sans", sans-serif;
   text-align: left;
+  background-color: aqua;
   }
