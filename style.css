@@ -12,15 +12,18 @@ html {
   color:rebeccapurple;
   font-size: 120%;
   background-color: purple;
+  text-align: center;
   }
   .tri{
   color:red;
   font-family: "Open Sans", sans-serif;
+  text-align: center;
   }
   .ctyri{
   color:#000000;
   border: 1px groove #0d0d0d;
   background-color: #f18973;
+  text-align: center;
   }
   .skola{
   color:rgb(44, 106, 131);
