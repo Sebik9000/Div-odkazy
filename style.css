@@ -29,4 +29,20 @@ html {
   .galerie{
   color:rgb(164, 173, 108);
   font-family: "Open Sans", sans-serif;
+  text-align: left;
+  }
+  .kontakty{
+  color:rgb(89, 158, 106);
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+  }
+  .onas{
+  color:rgb(144, 102, 221);
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+  }
+  .hlavni{
+  color:rgb(40, 33, 53);
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
   }
